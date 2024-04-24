@@ -19,3 +19,12 @@ Did you find difficulty in remembering long urls or even copying the whole thing
 So , with this knowledge this competition was designed to perform 3 tasks. which involves asking longer url from user , saving it in db with 8 length random generated short url in db and retriving it or retrieve long url if short ulr is given .
 
 ### project 5 (Simulation of Chess Game) :- 
+For all the chess lovers , this project is for you. This project is developed using Object oriented and Data Structures and Algorithms concepts to simulate live chess . The user inputs are taken from the console and if it is a valid move the motion of the piece is shown on chess grid which will be printed on console. But if it is not valid move it agains ask to enter thr valid coordinates . After moving the piece now a boolean isWhite class variable is altered indicating the switch of colors alternatively. All the pieces of the chess board that appear on Console are  Capital of first letter of original piece names. And this game continues until any of the color king is in checkmate, or stalemate or insufficient pieces. User can also choose castling and this feature is coded which will check the validity of castling. </br>
+Note :- Only special moves related to pawns like :- </br>
+1) pawn once entered opponent last column can be transformed to user choice piece.</br>
+2) pawn killing opponent pawn if opponent pawn jumped 2 steps at first and killer pawn has one empty slot diagnolly. </br>
+are not implemented here.</br>
+so **future scope of this project** is to include the above special moves with better GUI to make it much more universally accepted console chess game.
+
+
+                                                 
